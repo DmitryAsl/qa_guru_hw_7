@@ -1,6 +1,5 @@
 import csv
 import io
-
 import pytest
 import os
 import script_os
